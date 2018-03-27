@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.meena.bloombergprojectfinal.BloombergProjectFinal" >
+    <item
+        android:id="@+id/goal_id"
+        android:checkable="false"
+        android:orderInCategory="101"
+        android:title="Set Goal" />
+    <item
+        android:id="@+id/item"
+        android:orderInCategory="103"
+        android:title="Information" />
+</menu>
